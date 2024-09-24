@@ -1,1 +1,4 @@
 # ML_Assisted_Identification_of_Multilayer_2DMaterials
+
+4th year Undergraduate Research project titled Machine Learning assisted identification of multilayer 2D materials.
+Currently using the dataset given at: https://figshare.com/articles/dataset/Data_for_Deep-Learning-Based_Image_Segmentation_Integrated_with_Optical_Microscopy_for_Automatically_Searching_for_Two-Dimensional_Materials/11881053?file=21930396
